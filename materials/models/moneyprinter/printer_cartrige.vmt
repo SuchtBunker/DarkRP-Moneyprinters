@@ -1,0 +1,24 @@
+
+"Vertexlitgeneric"
+{
+	"$basetexture" 				"models\moneyprinter\printer_cartrige"
+	"$bumpmap" 				"models\moneyprinter\printer_cartrige_n"
+
+
+	"$phong" "1"
+	"$phongexponent" "95"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 0.5 1]"
+
+
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          2
+
+
+	$color2 "{ 125 185 255 }"
+
+	$blendtintbybasealpha 1
+
+}

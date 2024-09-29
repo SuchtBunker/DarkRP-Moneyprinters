@@ -1,0 +1,19 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" 				"models\moneyprinter\printer_body"
+	"$bumpmap" 				"models\moneyprinter\printer_body_n"
+
+
+
+
+	"$phong" "1"
+	"$phongexponent" "95"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 0.5 1]"
+
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          2
+
+}

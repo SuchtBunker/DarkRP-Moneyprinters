@@ -1,0 +1,17 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" 				"models\moneyprinter\printer_screen"
+	"$basemapalphaphongmask" "1"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "11"
+	"$phongfresnelranges" "[.5 1 2]"	
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.025 .025 .025]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "8"
+	"$rimlightboost" ".5"	
+}

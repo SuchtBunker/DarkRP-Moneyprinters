@@ -1,0 +1,12 @@
+
+"Vertexlitgeneric"
+{
+	"$basetexture" 				"models\moneyprinter\printer_paper"
+	"$bumpmap" 				"models\moneyprinter\printer_paper_n"
+
+
+	$rimlight               1
+	$rimlightexponent       25
+	$rimlightboost          4
+
+}
