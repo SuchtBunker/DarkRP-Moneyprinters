@@ -5,8 +5,8 @@
 2. https://github.com/SuchtBunker/_benlib
 
 ## Settings
-All values can be changed in lua/entities/moneyprinter/shared.lua
-Make the entities moneyprinter, paper, moneyprinter_ink_20, moneyprinter_ink_50, moneyprinter_ink_100 buyable via darkrpmodification
+All values can be changed in *lua/entities/moneyprinter/shared.lua*\
+Make the entities moneyprinter, paper, moneyprinter_ink_20, moneyprinter_ink_50, moneyprinter_ink_100 buyable via darkrpmodification.
 
 ## Content
 The content should be available on the server by adding this addon.\
