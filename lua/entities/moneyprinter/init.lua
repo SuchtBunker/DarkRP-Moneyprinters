@@ -94,7 +94,7 @@ function ENT:OnTakeDamage(dmg)
 	hook.Call("PostEntityTakeDamage",GAMEMODE,self,dmg,true)
 	if self:Health() < 1 then
 		self.Exp = true
-		QueueExplosion(self,self.ExplosionSize,true)
+		_benlib.QueueExplosion(self,self.ExplosionSize,true)
 	end
 end
 
